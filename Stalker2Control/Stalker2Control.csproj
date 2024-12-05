@@ -1,12 +1,17 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
+    <OutputType>WinExe</OutputType>
     <TargetFramework>net8.0-windows10.0.26100.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <UseWindowsForms>True</UseWindowsForms>
+    <ApplicationIcon>icons8-radiation-sign-96.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="icons8-radiation-sign-96.ico" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="ClickableTransparentOverlay" Version="11.0.1" />

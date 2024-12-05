@@ -46,7 +46,7 @@
 
 ## Installation
 1. **Install UETools - Developer Console**: Download and install from [Nexus Mods](https://www.nexusmods.com/stalker2heartofchornobyl/mods/64?tab=description).
-2. **Download the latest release** from the [Releases page](#).
+2. **Download the latest release** from the [Releases page](https://github.com/Rianvy/Stalker2Control/releases).
 3. **Extract the files** to a directory of your choice.
 4. **Run `Stalker2Control.exe`** to start the application.
 5. **Toggle Program Window Visibility**: Use the `Home key` to show or hide the program window.
